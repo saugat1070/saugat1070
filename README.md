@@ -1,5 +1,5 @@
 
-<h1 id="header" style="text-align:center">Hi there, I'm Saugat Giri 👋</h1>h1>
+<h1 id="header" align="center">Hi there, I'm Saugat Giri 👋</h1>
 Welcome to my GitHub profile! I'm passionate about Machine Learning and Django, and I love diving into complex problems to develop innovative solutions. Here's a bit about me:
 
 🌱 Learning: Constantly expanding my knowledge in Django, Machine Learning.
