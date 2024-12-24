@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **saugat1070/saugat1070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##Hi there, I'm Saugat Giri 👋
+Welcome to my GitHub profile! I'm passionate about Machine Learning and Django, and I love diving into complex problems to develop innovative solutions. Here's a bit about me:
+
+🌱 Learning: Constantly expanding my knowledge in Django, Machine Learning.
+
+📫 How to Reach Me: Feel free to connect with me via
+ 🔗www.linkedin.com/in/saugat-giri-a46299281
+ 
+I'm always excited to collaborate on new projects and explore cutting-edge technologies. Let's build something amazing together!
