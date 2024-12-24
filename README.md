@@ -1,6 +1,6 @@
 
 <h1 id="header" align="center">Hi there, I'm Saugat Giri 👋</h1>
-<img width="400" align = "right" src="" alt="shishirrijal" /> 
+<img width="400" align = "right" src="rb_2801.png" alt="Saugat Giri" /> 
 Welcome to my GitHub profile! I'm passionate about Machine Learning and Django,<br> and I love diving into complex problems to develop innovative solutions.<br>
 
 <h3 align="left">Here's a bit about me:</h3>
