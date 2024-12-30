@@ -13,5 +13,5 @@ Welcome to my GitHub profile! I'm passionate about Machine Learning and Django,<
 <a href="https://www.hackerrank.com/profile/saugatgiri1070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Saugat Giri" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/saugat1070/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Saugat Giri" height="30" width="40" /></a>
 </p>
-🌱 Learning: Constantly expanding my knowledge in Django, Machine Learning.
+🌱 Learning: Constantly expanding my knowledge in Django and Machine Learning.
 I'm always excited to collaborate on new projects and explore cutting-edge technologies. Let's build something amazing together!
