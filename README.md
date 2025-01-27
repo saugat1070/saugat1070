@@ -15,3 +15,10 @@ Welcome to my GitHub profile! I'm passionate about Machine Learning and Django,<
 </p>
 🌱 Learning: Constantly expanding my knowledge in Django and Machine Learning.
 I'm always excited to collaborate on new projects and explore cutting-edge technologies. Let's build something amazing together!
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saugat1070&show_icons=true&locale=en&layout=compact" alt="saugat_giri" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saugat1070&show_icons=true&locale=en" alt="saugat_giri" /></p>
+
