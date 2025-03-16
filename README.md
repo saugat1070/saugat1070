@@ -22,7 +22,4 @@ I'm always excited to collaborate on new projects and explore cutting-edge techn
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saugat1070&show_icons=true&locale=en&theme=react-dark&bg_color=20232a&hide_border=true" alt="saugat_giri" /></p>
 
-  <h2>🚀 GitHub Activity</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saugat1070&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+
