@@ -1,6 +1,7 @@
 
 <h1 id="header" align="center">Hi there, I'm Saugat Giri 👋</h1>
-<img width="400" align = "right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJyY3k2amZvcTgzMHM0MHB3ZGZ4ZzV1dGNsZTJ3ejc3em55cjFjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp" alt="Saugat Giri" /> 
+<img width="400" 
+ align = "right" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Saugat Giri" /> 
 Welcome to my GitHub profile! I'm passionate about Machine Learning and Django,<br> and I love diving into complex problems to develop innovative solutions.<br>
 
 <h3 align="left">Here's a bit about me:</h3>
