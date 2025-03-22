@@ -22,4 +22,13 @@ I'm always excited to collaborate on new projects and explore cutting-edge techn
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saugat1070&show_icons=true&locale=en&theme=react-dark&bg_color=20232a&hide_border=true" alt="saugat_giri" /></p>
 
+ <h2>📊 GitHub Stats</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthashim&show_icons=true&locale=en&layout=compact&theme=dark" alt="shresthashim" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shresthashim&show_icons=true&locale=en&theme=dark" alt="shresthashim" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shresthashim&theme=dark" alt="shresthashim" /></p><p align="center">
+</div>
+
+
 
