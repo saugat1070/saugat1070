@@ -20,11 +20,12 @@ I'm always excited to collaborate on new projects and explore cutting-edge techn
 
 
  <h2>📊 GitHub Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saugat1070&show_icons=true&locale=en&layout=compact&theme=dark" alt="saugat1070" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saugat1070&show_icons=true&locale=en&theme=dark" alt="saugat1070" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saugat1070&show_icons=true&locale=en&layout=compact&theme=dark" alt="saugat1070" /></p>
+<hr color="red">
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=saugat1070&show_icons=true&locale=en&theme=dark" alt="saugat1070" /></p>
+<hr style="border: none; border-top: 2px solid #000; margin: 20px 0;">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saugat1070&theme=dark" alt="saugat1070" /></p><p align="center">
+ <hr>
 </div>
 
 
