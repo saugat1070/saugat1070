@@ -1,5 +1,6 @@
 
-<h1 id="header" align="center">Hi there, I'm Saugat Giri 👋</h1>
+<h1 id="header" align="center">Hi, It's me Saugat Giri🧑‍💻 </h1>
+
 <img width="400" 
  align = "right" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Saugat Giri" /> 
 Welcome to my GitHub profile! I'm passionate about Machine Learning and Django,<br> and I love diving into complex problems to develop innovative solutions.<br>
@@ -19,14 +20,16 @@ I'm always excited to collaborate on new projects and explore cutting-edge techn
 
 
 
- <h2>📊 GitHub Stats</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saugat1070&show_icons=true&locale=en&layout=compact&theme=dark" alt="saugat1070" /></p>
-<hr color="red">
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=saugat1070&show_icons=true&locale=en&theme=dark" alt="saugat1070" /></p>
-<hr style="border: none; border-top: 2px solid #000; margin: 20px 0;">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saugat1070&theme=dark" alt="saugat1070" /></p><p align="center">
- <hr>
-</div>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saugat1070&show_icons=true&locale=en&layout=compact&theme=dark" alt="saugat1070" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=saugat1070&show_icons=true&locale=en&theme=dark" alt="saugat1070" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saugat1070&theme=dark" alt="saugat1070" />
+</p>
+
 
 
 
