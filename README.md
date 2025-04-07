@@ -3,7 +3,7 @@
 
 <img width="400" 
  align = "right" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Saugat Giri" /> 
-Welcome to my GitHub profile! I'm passionate about Machine Learning and Django,<br> and I love diving into complex problems to develop innovative solutions.<br>
+This is a place where I mess with Machine Learning, Django and API — big fan of solving tough problems and building useful things.<br>
 
 <h3 align="left">Here's a bit about me:</h3>
 
@@ -15,21 +15,36 @@ Welcome to my GitHub profile! I'm passionate about Machine Learning and Django,<
 <a href="https://www.hackerrank.com/profile/saugatgiri1070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Saugat Giri" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/saugat1070/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Saugat Giri" height="30" width="40" /></a>
 </p>
-🌱 Learning: Constantly expanding my knowledge in Django and Machine Learning.
-I'm always excited to collaborate on new projects and explore cutting-edge technologies. Let's build something amazing together!
+<br>
+<p>
+ 💻 Learning as I go — mostly backend stuff and playing around with AI and Algorithms. Always down to team up and build cool projects.
+ </p>
+ 
+---
 
+### 🛠️ Tech Stack
 
+![Python](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
+![React](https://skillicons.dev/icons?i=react)
+![Vscode](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Javascript](https://skillicons.dev/icons?i=javascript)
 
-<h2 align="center">📊 GitHub Stats</h2>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saugat1070&show_icons=true&locale=en&layout=compact&theme=dark" alt="saugat1070" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=saugat1070&show_icons=true&locale=en&theme=dark" alt="saugat1070" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saugat1070&theme=dark" alt="saugat1070" />
-</p>
+### 📈 GitHub Stats
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saugat1070&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" align="left"/>
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=saugat1070&show_icons=true&theme=tokyonight" alt="GitHub Stats" align="center"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saugat1070&theme=tokyonight" alt="GitHub Streak" align="center"/>
+
+---
 
 
 
