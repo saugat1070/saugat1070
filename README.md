@@ -8,7 +8,6 @@ This is a place where I mess with Machine Learning, Django and API — big fan o
 <h3 align="left">Here's a bit about me:</h3>
 
 <br>
-
 <p align="left">
 <a href="https://www.linkedin.com/in/saugat-giri-a46299281/" target="blank"><img align="center" src="linkedin.png" alt="Saugat Giri" height="40" width="40" /></a>
 <a href="https://www.instagram.com/saugat_giri0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Saugat Giri" height="30" width="40" /></a>
