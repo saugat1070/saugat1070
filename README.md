@@ -1,6 +1,5 @@
 
 <h1 id="header" align="center">Hi, It's me Saugat Giri🧑‍💻 </h1>
-
 <img width="400" 
  align = "right" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Saugat Giri" /> 
 This is a place where I mess with Machine Learning, Django and API — big fan of solving tough problems and building useful things.<br>
