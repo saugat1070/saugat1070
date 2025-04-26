@@ -24,13 +24,19 @@ This is a place where I mess with Machine Learning, Django and API — big fan o
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Cplus](https://skillicons.dev/icons?i=cpp,c)
+![Bash](https://skillicons.dev/icons?i=bash)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Vscode](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Javascript](https://skillicons.dev/icons?i=javascript)
+![ubuntu](https://skillicons.dev/icons?i=ubuntu,notion,pycharm,aws)
 
 ---
 
