@@ -32,7 +32,7 @@ This is a place where I mess with Machine Learning, Django and API — big fan o
 ![Github](https://skillicons.dev/icons?i=github)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Tailwind](https://skillicons.dev/icons?i=html,css,tailwind,sass)
 ![Vscode](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Javascript](https://skillicons.dev/icons?i=javascript)
