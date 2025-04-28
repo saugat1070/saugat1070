@@ -42,13 +42,14 @@ This is a place where I mess with Machine Learning, Django and API — big fan o
 
 ### 📈 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saugat1070&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saugat1070&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Langs" align="left"/>
  
-  <img src="https://github-readme-stats.vercel.app/api?username=saugat1070&show_icons=true&theme=tokyonight" alt="GitHub Stats" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saugat1070&show_icons=true&theme=github_dark" alt="GitHub Stats" align="center"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saugat1070&theme=tokyonight" alt="GitHub Streak" align="center"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saugat1070&theme=github_dark" alt="GitHub Streak" align="center"/>
 
 ---
+
 
 
 
