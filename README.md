@@ -23,7 +23,7 @@ This is a place where I mess with Machine Learning, Django and API — big fan o
 ### 🛠️ Tech Stack
 
 ![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
+![Django](https://skillicons.dev/icons?i=django,nodejs,express)
 ![Cplus](https://skillicons.dev/icons?i=cpp,c)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql)
