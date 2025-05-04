@@ -43,7 +43,7 @@ This is a place where I mess with Machine Learning, Django and API — big fan o
 
 ### 📈 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saugat1070&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Langs" align="left"/>
+
  
   <img src="https://github-readme-stats.vercel.app/api?username=saugat1070&show_icons=true&theme=github_dark" alt="GitHub Stats" align="center"/>
 
