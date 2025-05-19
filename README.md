@@ -5,7 +5,6 @@ This is a place where I mess with Machine Learning, Django and API — big fan o
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugat1070&label=Profile%20views&color=0e75b6&style=flat" alt="saugat" /> </p>
 <h3 align="left">Here's a bit about me:</h3>
-
 <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/saugat-giri-a46299281/" target="blank"><img align="center" src="linkedin.png" alt="Saugat Giri" height="40" width="40" /></a>
