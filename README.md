@@ -46,5 +46,3 @@ This is a place where I mess with Machine Learning, Django and API — big fan o
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saugat1070&theme=github_dark" alt="GitHub Streak" align="center"/>
   
 ---
-
-
