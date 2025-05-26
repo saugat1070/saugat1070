@@ -35,7 +35,7 @@ This is a place where I mess with Machine Learning, Django and API — big fan o
 ![Vscode](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Javascript](https://skillicons.dev/icons?i=javascript)
-![ubuntu](https://skillicons.dev/icons?i=ubuntu,notion,pycharm,aws)
+![ubuntu](https://skillicons.dev/icons?i=ubuntu,notion,aws)
 
 ---
 
