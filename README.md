@@ -47,8 +47,3 @@ This is a place where I mess with Machine Learning, Django and API — big fan o
 ---
 
 
-
-
-
-
-
