@@ -20,21 +20,9 @@ This is a place where I mess with Backend Enviroment NodeJS, Django and API — 
 
 ### 🛠️ Tech Stack
 
-![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django,nodejs,express,typescript)
-![Cplus](https://skillicons.dev/icons?i=cpp,c)
-![Bash](https://skillicons.dev/icons?i=bash)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
-![Linux](https://skillicons.dev/icons?i=linux)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=html,css,tailwind,sass)
-![Vscode](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Javascript](https://skillicons.dev/icons?i=javascript)
-![ubuntu](https://skillicons.dev/icons?i=ubuntu,notion,aws)
+<div align="center">
+  <img alt="Django/Node/Express/TS" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis,docker,typescript,javascript,react,nextjs,tailwind,css,html,git,github,linux,bash,docker,ubuntu,vscode,postman,aws" />
+</div>
 
 ---
 
