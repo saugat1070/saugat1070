@@ -28,7 +28,7 @@ This is a place where I mess with Backend Enviroment NodeJS, Django and API — 
 
 ### 📈 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=saugat1070&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=16" alt="GitHub Stats" align="center"/>
+  <img width="370" src="https://github-readme-stats-salesp07.vercel.app/api?username=saugat1070&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saugat1070&theme=react" alt="GitHub Streak" align="center"/>
   
 ---
