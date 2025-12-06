@@ -33,5 +33,4 @@ This is a place where I mess with Backend Enviroment NodeJS, Django and API — 
 </div>
   
 ---
-
-
+[](https://pixel-profile.vercel.app/api/github-stats?username=saugat1070&theme=crt&pixelate_avatar=false)
