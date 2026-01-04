@@ -21,7 +21,7 @@ This is a place where I mess with Backend Enviroment NodeJS, NestJs and API — 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img alt="Node/Express/TS" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nestjs,mysql,postgres,redis,docker,typescript,javascript,react,nextjs,tailwind,css,html,git,github,linux,bash,docker,ubuntu,vscode,postman,aws" />
+  <img alt="Node/Express/TS" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nestjs,mysql,postgres,redis,docker,typescript,javascript,react,nextjs,tailwind,css,html,git,github,linux,bash,docker,ubuntu,vscode,postman,aws,prisma" />
 </div>
 
 ---
