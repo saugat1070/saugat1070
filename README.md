@@ -28,9 +28,8 @@ This is a place where I mess with Backend Enviroment NodeJS, NestJs and API — 
 
 ### 📈 GitHub Stats
 <div>
-  <img width="370" src="https://github-readme-stats-salesp07.vercel.app/api?username=saugat1070&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=3600" alt="readme stats" />
-  <img width="370" src="https://github-readme-streak-stats.herokuapp.com/?user=saugat1070&theme=react&cache_seconds=3600" alt="GitHub Streak" align="right"/>
+  <img width="370" src="https://github-readme-stats-salesp07.vercel.app/api?username=saugat1070&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+ <img width="370" src="https://github-readme-stats-fast.vercel.app/api/streak?username=saugat1070&theme=react&show_icons=true&border_radius=16"/>
 </div>
   
 ---
-[](https://pixel-profile.vercel.app/api/github-stats?username=saugat1070&theme=crt&pixelate_avatar=false)
