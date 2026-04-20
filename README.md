@@ -5,10 +5,10 @@ This is a place where I mess with Backend Enviroment NodeJS, NestJs and API — 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugat1070&label=Profile%20views&color=0e75b6&style=flat" alt="saugat" /> </p>
 <h3 align="left">Here's a bit about me:</h3>
 <br>
-<p align="left">
-<a href="https://www.linkedin.com/in/saugat-giri-a46299281/" target="blank"><img align="center" src="linkedin.png" alt="Saugat Giri" height="40" width="40" /></a>
-<a href="https://www.instagram.com/saugat_giri0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Saugat Giri" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/saugat1070/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Saugat Giri" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/saugat-giri-a46299281/" target="_blank">
+    <img src="linkedin.png" alt="LinkedIn" height="36" width="36" />
+  </a>
 </p>
 <br>
 <p>
@@ -20,7 +20,7 @@ This is a place where I mess with Backend Enviroment NodeJS, NestJs and API — 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img alt="Node/Express/TS" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nestjs,mysql,postgres,redis,docker,typescript,javascript,react,nextjs,tailwind,css,html,git,github,linux,bash,docker,ubuntu,vscode,postman,aws,prisma,nginx" />
+  <img alt="Node/Express/TS" src="https://skillicons.dev/icons?i=nodejs,golang,express,mongodb,nestjs,mysql,postgres,redis,docker,typescript,javascript,react,nextjs,tailwind,css,html,git,github,linux,bash,docker,ubuntu,vscode,postman,aws,prisma,nginx" />
 </div>
 
 ---
@@ -33,5 +33,5 @@ This is a place where I mess with Backend Enviroment NodeJS, NestJs and API — 
   
 ---
 ```javascript
-                                       console.log("Let's connect and build something unique")
+             console.log("Let's connect and build something unique")
 ```
