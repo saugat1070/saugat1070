@@ -4,11 +4,9 @@
 > <em>I turn human thoughts into lines of code.</em>
 
 
-<!-- <img width="400" 
- align = "right" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Saugat Giri" />  -->
- 
- <img width="400" 
- align = "right" src="./saugat-ascii.svg" alt="Saugat Giri" /> 
+<img width="400" 
+ align = "right" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Saugat Giri" /> 
+
 This is a place where I mess with Backend Enviroment NodeJS, NestJs and API — big fan of solving tough problems and building useful things.<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugat1070&label=Profile%20views&color=0e75b6&style=flat" alt="saugat" /> </p>
 
