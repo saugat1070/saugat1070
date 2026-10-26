@@ -23,9 +23,11 @@ This is a place where I mess with code, chase interesting ideas, and build usefu
 
 ---
 
-###  GitHub Stats
+### GitHub Analytics
+
 <div align="center">
- <img width="370" src="https://github-readme-stats-fast.vercel.app/api/streak?username=saugat1070&theme=react&show_icons=true&border_radius=16"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saugat1070&theme=dark&hide_border=true" width="97%"/>
 </div>
-  
+
 ---
+  
