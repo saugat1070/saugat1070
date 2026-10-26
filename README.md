@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=50&duration=4000&pause=700&color=FFA500&background=0000FF00&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi%2C+I+am+Saugat+Giri+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Backend+Developer)](https://git.io/typing-svg)
-<br>
->[!Important]
-> <em>I turn ideas into systems, and problems into code.</em>
+
+
+> <em>“ यथा दृष्टि तथा सृष्टि । ”.</em>
 
 
 <img width="400" 
@@ -26,7 +26,7 @@ This is a place where I mess with code, chase interesting ideas, and build usefu
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saugat1070&theme=dark&hide_border=true" width="97%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saugat1070&theme=dark&hide_border=true" width="75%"/>
 </div>
 
 ---
